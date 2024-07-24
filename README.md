@@ -1,6 +1,8 @@
-# scatterplot-graph
+# Scatterplot-Graph
 
-Project designed for submitting to freeCodeCamp
+## Description
+
+Project designed for submitting to freeCodeCamp. This project takes a multi-layered dataset (within constraints) and renders a visualized form of the data in a scatterplot graph.
 
 ## Project Preview Expectation
 
