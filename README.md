@@ -6,7 +6,7 @@ Project designed for submitting to freeCodeCamp. This project takes a multi-laye
 
 ## Project Preview Expectation
 
-// Insert image here
+![scatterplot-graph](https://github.com/user-attachments/assets/60eac402-7fa4-4b95-bf08-4ff0d5cab99d)
 
 ## Project Preview Result
 
