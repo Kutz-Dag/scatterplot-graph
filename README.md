@@ -10,7 +10,7 @@ Project designed for submitting to freeCodeCamp. This project takes a multi-laye
 
 ## Project Preview Result
 
-// Insert image here
+![Project_result_scatterplot](https://github.com/user-attachments/assets/8fb54d14-a752-44bf-8163-18186cd66bff)
 
 ## Project Details/Instructions
 
