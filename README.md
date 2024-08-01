@@ -50,4 +50,6 @@ User Story #15: My tooltip should have a data-year property that corresponds to 
 
 ## Codepen
 
-I initially posted the project on Codepen. You can view it here: // insert link
+I initially posted the project on Codepen. You can view it here: 
+
+https://codepen.io/kutzz/pen/yLZvxKm
