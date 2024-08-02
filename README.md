@@ -52,4 +52,4 @@ User Story #15: My tooltip should have a data-year property that corresponds to 
 
 I initially posted the project on Codepen. You can view it here: 
 
-https://codepen.io/kutzz/pen/yLZvxKm
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kutzz/pen/yLZvxKm)
