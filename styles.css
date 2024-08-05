@@ -1,1 +1,39 @@
+.container {
+  margin: 55px;
+}
+
+#title {
+  border-radius: 5px;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #eee;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 15px;
+}
+
+#header--2 {
+  border-radius: 5px;
+  font-size: 18px;
+  font-style: italic;
+  background-color: white;
+  margin-bottom: 25px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 10px;
+}
+
+.scatterplotGraph {
+  border-radius: 10px;
+}
+
+body {
+   background-color: #222;
+}
 
