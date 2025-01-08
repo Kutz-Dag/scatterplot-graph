@@ -18,6 +18,8 @@ Fulfill the below user stories and get all of the tests to pass. Use whichever l
 
 You can use HTML, JavaScript, CSS, and the D3 SVG-based visualization library. The tests require axes to be generated using the D3 axis property, which automatically generates ticks along the axis. These ticks are needed to pass the D3 tests because their positions are used to determine the alignment of graphed elements. You will find information about generating axes at https://d3js.org/d3-axis. Required DOM elements are queried at the moment of each test. If you use a frontend framework (like Vue for example), the test results may be inaccurate for dynamic content. We hope to accommodate them eventually, but these frameworks are not currently supported for D3 projects.
 
+### User Stories/Tests to pass:
+
 User Story #1: I see a title element with a corresponding id="title".
 
 User Story #2: I can see an x-axis with a corresponding id="x-axis".
